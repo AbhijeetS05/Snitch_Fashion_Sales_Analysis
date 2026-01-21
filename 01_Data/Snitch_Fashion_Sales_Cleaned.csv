@@ -1,0 +1,372 @@
+Order_ID,Customer_Name,Product_Category,Product_Name,Units_Sold,Unit_Price,Discount_Percentage,Sales_Amount,Order_Date,City,Segment,Net_Profit_Loss
+1002,Sarah Snyder,Jackets,Puffer Coat,1,637.82,0,637.82,02-01-2025,Mumbai,B2B,-158.03
+1003,Jay Briggs,Shoes,Loafers,2,2962.27,0,5924.54,18-06-2025,Bengaluru,B2B,2296.5
+1006,John Mclean,Jeans,Boyfriend Jeans,1,2060.85,0,2060.85,02-04-2024,Ahmedabad,B2B,198.36
+1025,Christine Reed,Jeans,Straight Cut,4,4595.08,0,18380.32,18-07-2025,Bengaluru,OTHERS,330.82
+1030,Brandi Jones,Dresses,Maxi Dress,3,1069.77,0,3209.31,03-09-2023,Hyderabad,B2C,1155.38
+1036,Connie Cunningham,T-Shirts,Graphic Tee,2,2721.83,0,5443.66,06-04-2024,Ahmedabad,B2B,1213.95
+1038,Courtney Riddle,T-Shirts,Crop Top,3,1692.38,0,5077.14,20-01-2024,Bengaluru,B2C,1704.49
+1050,Matthew Schmidt,Jeans,Slim Fit Jeans,1,1083.16,0,1083.16,08-07-2025,Pune,B2C,2904.29
+1066,Joshua Figueroa,Shoes,Slip-ons,2,3479.44,0,6958.88,15-01-2025,Delhi,OTHERS,-252.78
+1090,Heather Arnold,Shoes,Slip-ons,5,2477.82,0,12389.1,09-11-2024,Ahmedabad,B2C,-888.86
+1100,Daniel Brown,Shoes,Boots,2,2011.73,0,4023.46,30-12-2024,Hyderabad,B2C,2493.5
+1103,Brandon Webb,Dresses,Bodycon,5,1521.46,0,7607.3,11-06-2025,Bengaluru,B2B,1713.47
+1104,Andrew Moreno,Dresses,Maxi Dress,3,2752.71,0,8258.13,11-06-2024,Ahmedabad,B2B,1660.01
+1114,Robert Williams,Dresses,Bodycon,6,568.61,0.2,2729.33,18-02-2025,Delhi,B2C,-689.16
+1123,Michael Clarke,Accessories,Caps,5,3978.76,0,19893.8,11-04-2024,Ahmedabad,OTHERS,1494.78
+1127,Rhonda Ray,Dresses,Bodycon,3,4843.44,0.07,13513.2,07-08-2024,Ahmedabad,B2B,2881.91
+1129,Miranda Thomas,Jeans,Boyfriend Jeans,2,2412.36,0.23,3715.03,27-06-2025,Mumbai,B2C,-668.36
+1135,Ronald Ballard,Shoes,Sneakers,4,1556.96,0.84,996.45,23-10-2024,Mumbai,B2B,1432.84
+1142,Daniel Alvarez,Dresses,Bodycon,6,3004.58,0,18027.48,22-02-2024,Hyderabad,B2C,-509.67
+1145,Jorge Anderson,T-Shirts,Graphic Tee,2,3607.9,0.94,432.95,06-11-2024,Hyderabad,B2B,-171.58
+1151,Joseph Allen,Jeans,Straight Cut,4,2266.44,0.33,6074.06,17-07-2025,Pune,B2C,-655.45
+1153,Julia Evans,Accessories,Belts,1,478.59,0,478.59,15-12-2024,Delhi,B2B,-681.2
+1157,Dean Allen,Jeans,Ripped Denim,6,645.03,0,3870.18,25-06-2025,Ahmedabad,B2C,2724.92
+1172,Diane Davis,Jackets,Puffer Coat,2,2719.32,0,5438.64,02-05-2025,Hyderabad,B2C,655.1
+1174,Tiffany Flores,Jackets,Leather Jacket,6,4984.65,0.42,17346.58,23-12-2024,Bengaluru,OTHERS,2931.32
+1183,Sherry Ward,Accessories,Watches,6,2372.3,0,14233.8,27-03-2024,Delhi,OTHERS,1888.87
+1188,Maria Morrow,Accessories,Belts,6,4910.28,0.12,25926.28,27-08-2024,Bengaluru,OTHERS,2089.25
+1198,Jacqueline Erickson,Accessories,Sunglasses,3,3594.97,0,10784.91,17-04-2025,Delhi,B2C,2422.27
+1201,Crystal Hayes MD,Jackets,Bomber Jacket,2,3507.85,0,7015.7,10-01-2025,Pune,B2B,1023.04
+1212,Bradley Quinn,Shoes,Slip-ons,1,4098.12,0,4098.12,17-10-2024,Hyderabad,OTHERS,-656.35
+1214,Alicia Hernandez,Jackets,Leather Jacket,4,1273.6,0,5094.4,18-06-2025,Hyderabad,B2C,1851.89
+1218,Jamie Alexander,Dresses,Wrap Dress,3,1544.45,0.33,3104.34,31-03-2025,Hyderabad,B2B,707.56
+1232,Sierra Miller,Shoes,Sneakers,2,2526.77,0,5053.54,14-09-2023,Mumbai,B2C,1494.67
+1239,Karina Davis,T-Shirts,Graphic Tee,4,644.58,0,2578.32,20-10-2024,Delhi,B2B,1097.88
+1241,Caroline Thomas,Jeans,Slim Fit Jeans,6,3111.95,0,18671.7,22-06-2024,Bengaluru,OTHERS,2814.82
+1251,Hailey Sullivan,Dresses,Casual Midi,2,4841.4,0.6,3873.12,04-02-2025,Pune,OTHERS,578.37
+1252,Brandy Clark,T-Shirts,Classic Tee,6,1638.51,0.88,1179.73,02-04-2025,Mumbai,B2C,1484.7
+1255,Kim Campos,T-Shirts,Classic Tee,4,1849.68,0,7398.72,06-12-2024,Hyderabad,B2C,-706.09
+1258,Shane Gomez,Dresses,Bodycon,2,4313.38,0,8626.76,12-03-2025,Delhi,B2C,2636.96
+1259,Tyler Haney,Shoes,Boots,2,3396.92,0,6793.84,05-05-2025,Ahmedabad,OTHERS,-830.5
+1267,Sarah Andrews,Jackets,Bomber Jacket,3,3255.23,0,9765.69,16-11-2023,Delhi,B2B,650.8
+1275,Kelly Wong,Dresses,Casual Midi,3,4132,0,12396,26-02-2024,Bengaluru,B2B,2732.47
+1277,Michael Coleman,Accessories,Sunglasses,2,4720.52,0.57,4059.65,05-09-2024,Delhi,B2C,1255.66
+1296,Lori Orozco,Jeans,Slim Fit Jeans,2,2795.79,0,5591.58,26-03-2025,Bengaluru,B2B,1438.47
+1299,John Levine,Jackets,Denim Jacket,1,1026.58,0,1026.58,26-10-2024,Hyderabad,B2C,1178.37
+1307,Amber Lee,Dresses,Maxi Dress,2,2648.43,0,5296.86,08-08-2024,Ahmedabad,B2B,642
+1308,Michael Joseph,Dresses,Bodycon,2,4203.62,0,8407.24,08-04-2025,Mumbai,B2B,464.65
+1315,Mark Gonzales,Jeans,Boyfriend Jeans,2,515.04,0,1030.08,30-06-2024,Bengaluru,OTHERS,-279.01
+1328,Christine Drake,Shoes,Boots,4,3250.24,0.56,5720.42,27-05-2025,Pune,B2B,2269.54
+1329,Eric Medina,T-Shirts,Graphic Tee,1,2587.78,0,2587.78,25-12-2023,Hyderabad,B2C,1667.02
+1334,Russell Douglas,Dresses,Maxi Dress,6,1454.69,0,8728.14,06-06-2025,Delhi,OTHERS,652.87
+1355,Ryan James,Dresses,Bodycon,1,1054.69,0.18,864.85,20-10-2024,Mumbai,B2B,698.05
+1362,Krista Wright,T-Shirts,Classic Tee,1,4953.02,0,4953.02,07-12-2024,Ahmedabad,B2C,-499.33
+1376,Megan Smith,Accessories,Caps,4,1447.28,0,5789.12,27-07-2024,Hyderabad,B2B,175.33
+1383,Rachel Bradford,Dresses,Maxi Dress,5,2409.13,0,12045.65,03-07-2025,Pune,B2C,127.63
+1389,Barbara Jones,Dresses,Wrap Dress,2,2742.38,0,5484.76,25-07-2023,Ahmedabad,OTHERS,1987.46
+1031,Eric Williams,T-Shirts,Classic Tee,6,3792.09,0,22752.54,03-12-2023,Bengaluru,B2C,194.31
+1465,William Peck,Accessories,Belts,2,2215.4,0.96,177.23,20-02-2025,Hyderabad,OTHERS,-85.73
+1471,Tammy Johnson,Accessories,Belts,2,4882.03,0.23,7518.33,21-08-2023,Hyderabad,B2C,-605.67
+1475,Nancy James,T-Shirts,Oversized T-shirt,2,3692.25,0,7384.5,11-11-2024,Mumbai,B2C,433.87
+1484,Judith Johnson,Jackets,Bomber Jacket,2,818.68,0,1637.36,29-12-2023,Mumbai,OTHERS,2357.74
+1487,Nancy Taylor,Accessories,Sunglasses,6,1234.08,0.71,2147.3,15-03-2024,Delhi,B2C,-849.81
+1496,Laura Myers,Jackets,Denim Jacket,1,4874.76,0,4874.76,29-12-2024,Ahmedabad,B2B,2438.13
+1498,Tiffany Calhoun,Jeans,Straight Cut,6,3771.67,0,22630.02,01-10-2024,Mumbai,B2C,2442.42
+1503,Linda Allen,T-Shirts,Oversized T-shirt,2,4621.79,0.32,6285.63,18-05-2025,Delhi,B2C,1350.48
+1504,James Matthews,Shoes,Loafers,2,2558.43,0,5116.86,08-11-2024,Bengaluru,B2B,-360.49
+1515,Lauren Bailey,Accessories,Sunglasses,3,4596.03,0,13788.09,01-07-2025,Delhi,OTHERS,-866.29
+1519,Jennifer Alvarado,Accessories,Belts,1,3762.86,0,3762.86,17-10-2024,Mumbai,B2B,2567.73
+1525,David Morales,Accessories,Watches,5,4591.26,0,22956.3,03-01-2025,Hyderabad,B2B,-602.8
+1526,Rachel Rios,Shoes,Sneakers,2,1884.25,0,3768.5,11-10-2024,Bengaluru,OTHERS,1177.57
+1570,William Aguilar,Jackets,Leather Jacket,1,4774.77,0.96,190.99,08-04-2025,Mumbai,B2C,-146.17
+1576,Rick Moran,Jackets,Denim Jacket,1,1882.14,0.6,752.86,05-01-2025,Ahmedabad,B2B,2554.79
+1582,David Noble,Jeans,Slim Fit Jeans,1,4809.9,0.92,384.79,28-09-2024,Mumbai,OTHERS,-356.01
+1585,Tina Keith,Shoes,Sneakers,2,2738.72,0.89,602.52,11-11-2024,Delhi,OTHERS,-709.13
+1596,Mark Campbell,Jackets,Puffer Coat,3,738.29,0,2214.87,23-09-2024,Ahmedabad,B2B,-871.38
+1597,Linda Ross,T-Shirts,Crop Top,1,657.51,0.77,151.23,04-08-2024,Delhi,B2C,2744.32
+1608,Lindsay Sanchez,Shoes,Slip-ons,3,3536.61,0.79,2228.06,20-02-2025,Mumbai,B2C,-55.01
+1612,Stephanie Ferguson,Jackets,Puffer Coat,5,1010.24,0,5051.2,26-02-2025,Pune,OTHERS,2174.98
+1613,Anna Valdez,Accessories,Watches,1,1575.26,0,1575.26,08-01-2025,Delhi,B2C,-641.72
+1615,Joel Fitzpatrick,Dresses,Casual Midi,6,4962.7,0.02,29180.68,04-08-2023,Hyderabad,B2C,61.6
+1621,Scott Webb,T-Shirts,Classic Tee,6,639.67,0,3838.02,28-09-2024,Hyderabad,B2B,1599.1
+1004,Heather Gordon,Jeans,Ripped Denim,6,987.35,0,5924.1,04-02-2025,Mumbai,B2B,-108.36
+1628,Gary Simon,Dresses,Bodycon,1,3345.58,0.26,2475.73,15-04-2024,Hyderabad,OTHERS,2274.54
+1645,Brian Floyd,T-Shirts,Classic Tee,2,2660.45,0.22,4150.3,08-10-2023,Bengaluru,B2B,-825.82
+1655,Anthony Kent,Jeans,Boyfriend Jeans,5,1385.86,0.71,2009.5,01-06-2025,Mumbai,B2C,1839.94
+1048,Michael Keller,Accessories,Watches,4,1429.93,0,5719.72,14-11-2024,Ahmedabad,B2B,1844.84
+1679,Justin Rose,T-Shirts,Classic Tee,1,4198.5,0,4198.5,21-07-2024,Pune,OTHERS,2518.86
+1684,Mark Silva,Dresses,Maxi Dress,2,3537.97,0.26,5236.2,05-08-2024,Bengaluru,OTHERS,1385.75
+1690,Mary Tran,Jackets,Puffer Coat,5,1941.39,0.54,4465.2,04-03-2025,Delhi,B2C,206.95
+1691,Kathryn Hardy,Shoes,Boots,6,2878.51,0,17271.06,18-04-2025,Mumbai,OTHERS,2503.51
+1697,Sandra Peterson,Accessories,Belts,2,1758.97,0,3517.94,12-02-2025,Delhi,OTHERS,2026.97
+1699,Linda Long,Shoes,Sneakers,6,701.16,0,4206.96,09-02-2025,Delhi,B2C,2632.17
+1705,Cynthia Conway,Shoes,Sneakers,2,4170.76,0,8341.52,12-05-2025,Bengaluru,OTHERS,826.76
+1709,Jerry Carroll,Jackets,Denim Jacket,5,1717.79,0,8588.95,28-09-2024,Ahmedabad,B2B,2264.16
+1712,Ricardo Moran,Accessories,Belts,1,2386.58,0,2386.58,14-08-2024,Pune,B2B,1879.59
+1717,Marie Nelson,T-Shirts,Crop Top,4,1279.2,0.27,3735.26,15-11-2024,Delhi,B2C,453.7
+1718,Christina Meyers,Jackets,Denim Jacket,5,3988.99,0,19944.95,25-05-2025,Hyderabad,B2C,1430.08
+1719,Lisa Vang,Jeans,Boyfriend Jeans,3,4407.79,0.64,4760.41,15-03-2025,Delhi,B2B,1150.06
+1720,Dylan Armstrong,Jackets,Leather Jacket,3,3667.54,0.57,4731.13,31-07-2023,Ahmedabad,B2B,459.43
+1725,Jonathan Schmidt,Dresses,Maxi Dress,3,671.5,0,2014.5,13-08-2024,Hyderabad,B2B,1938.72
+1728,Paige Lee,Shoes,Loafers,1,733.15,0.27,535.2,25-01-2025,Ahmedabad,B2B,273.12
+1732,Mary Kline,Dresses,Wrap Dress,5,4982.68,0,24913.4,06-11-2023,Mumbai,B2B,2239.42
+1733,Selena Baker,Jackets,Bomber Jacket,2,721.25,0,1442.5,29-01-2025,Delhi,OTHERS,-936.38
+1739,Brent Rios,Jackets,Denim Jacket,3,963.18,0,2889.54,01-01-2025,Mumbai,B2B,-114.6
+1741,Jennifer Dominguez,T-Shirts,Graphic Tee,1,1762.56,0.98,35.25,13-01-2024,Ahmedabad,B2B,1217.93
+1760,Dustin Blackburn,Accessories,Watches,3,4326.6,0,12979.8,06-01-2025,Ahmedabad,B2B,1495.82
+1029,Lisa Moss,Jackets,Bomber Jacket,3,4343.12,0,13029.36,17-06-2025,Hyderabad,B2C,2997.11
+1765,Patrick Chen,Jeans,Straight Cut,6,1016.5,0,6099,21-02-2025,Mumbai,B2C,-420.11
+1768,Sandra Jensen,Shoes,Slip-ons,5,3548.22,0,17741.1,26-07-2023,Mumbai,B2B,2960.22
+1771,Ruth Bennett,Shoes,Slip-ons,1,730.48,0,730.48,07-01-2025,Hyderabad,B2C,-162.02
+1774,Robert Hunter DDS,Accessories,Sunglasses,3,4137.43,0,12412.29,30-04-2025,Ahmedabad,B2C,895.53
+1778,Brandi Stone,T-Shirts,Crop Top,5,2716.57,0,13582.85,04-10-2024,Mumbai,B2C,2059.98
+1784,Matthew Barajas,T-Shirts,Crop Top,4,2068.05,0,8272.2,08-10-2024,Mumbai,B2C,-379.91
+1785,Jeffery Hoover,T-Shirts,Oversized T-shirt,3,4103,0,12309,27-05-2025,Hyderabad,B2C,567.89
+1014,Gregory Palmer,Jeans,Slim Fit Jeans,5,2951.4,0,14757,13-11-2024,Delhi,OTHERS,2811.87
+1790,April Delgado,Jackets,Bomber Jacket,1,3268.42,0,3268.42,16-05-2025,Delhi,B2C,259.67
+1793,Maria Krueger,Dresses,Maxi Dress,5,1887.84,0,9439.2,21-08-2024,Ahmedabad,B2C,1275.03
+1807,Angela Lopez,Jeans,Boyfriend Jeans,4,2308.12,0,9232.48,03-06-2025,Bengaluru,B2C,362.88
+1816,Danielle Love,T-Shirts,Graphic Tee,1,1130.83,0.84,180.93,28-07-2023,Hyderabad,OTHERS,-804.96
+1820,John Bailey,T-Shirts,Graphic Tee,5,1965.04,0,9825.2,25-07-2023,Pune,OTHERS,20.89
+1846,Ashley Malone,Accessories,Sunglasses,1,694.71,0,694.71,26-01-2025,Ahmedabad,B2B,2991.27
+1851,Ms. Brianna Jones,Jeans,Slim Fit Jeans,5,1505,0,7525,11-12-2024,Bengaluru,B2B,-29.76
+1853,Joseph Hall,Accessories,Watches,3,2862.48,0,8587.44,15-09-2023,Ahmedabad,B2B,2555.84
+1855,Lisa Smith,T-Shirts,Crop Top,5,3870.85,0,19354.25,03-02-2025,Bengaluru,B2C,2313.58
+1856,Paul Garrison,Dresses,Wrap Dress,1,2737.23,0,2737.23,08-05-2025,Mumbai,B2B,2855.35
+1859,Priscilla Williams,Accessories,Sunglasses,4,1442.86,0.85,865.72,10-04-2025,Hyderabad,B2B,1183.93
+1864,Cory Chambers,Accessories,Caps,4,1570.06,0,6280.24,20-02-2024,Delhi,OTHERS,1017.26
+1865,Ann Melton,Jackets,Leather Jacket,2,2496.81,0,4993.62,19-04-2024,Hyderabad,OTHERS,28.7
+1866,Dylan Roth,T-Shirts,Graphic Tee,4,4471.17,0.6,7153.87,23-04-2025,Pune,B2C,1335.92
+1874,Melanie Phillips,Shoes,Slip-ons,5,2847.02,0,14235.1,27-03-2024,Ahmedabad,OTHERS,-573.97
+1880,Nicholas Evans,Accessories,Watches,1,772.97,0.9,77.3,10-10-2024,Pune,B2B,843.81
+1881,Patricia Brooks,Shoes,Slip-ons,3,1772.6,0,5317.8,28-06-2025,Bengaluru,B2B,993.92
+1894,Maurice Reynolds,Jackets,Leather Jacket,2,2793.89,0,5587.78,22-08-2023,Hyderabad,B2B,-512.73
+1898,Tonya Kirby,T-Shirts,Classic Tee,5,776.98,0,3884.9,17-12-2024,Mumbai,B2C,2977.35
+1904,Meredith Murphy,Jeans,Ripped Denim,1,1339.18,0,1339.18,13-07-2025,Bengaluru,B2C,554.93
+1909,Christopher Burgess,Accessories,Sunglasses,1,3114.13,0,3114.13,22-05-2025,Pune,B2B,2743.54
+1911,Bruce Brown,Jeans,Ripped Denim,6,2357.7,0,14146.2,17-08-2024,Ahmedabad,OTHERS,1901.07
+1914,Rodney Lee,Jeans,Boyfriend Jeans,6,3661.49,0.11,19552.36,10-07-2025,Pune,OTHERS,-527.32
+1926,Connie Wilson,Shoes,Slip-ons,2,2533.37,0,5066.74,04-08-2024,Bengaluru,B2C,-490.96
+1936,Michelle Walsh,Jeans,Ripped Denim,5,804.78,0,4023.9,10-01-2025,Ahmedabad,OTHERS,1109.21
+1937,Tim Dean,Accessories,Watches,4,643.24,0,2572.96,18-05-2025,Ahmedabad,B2C,1670.97
+1951,Anna Rogers,Shoes,Loafers,2,2390.43,0.35,3107.56,05-10-2024,Delhi,OTHERS,-634.86
+1954,Miss Angela Webb,Jeans,Ripped Denim,2,2315.78,0,4631.56,26-05-2025,Ahmedabad,OTHERS,2501.64
+1955,Sean Smith,Shoes,Sneakers,1,2787.46,0.92,223,11-01-2025,Mumbai,B2B,2909.73
+1960,Janet Murray MD,Shoes,Slip-ons,2,1369.81,0.67,904.07,16-11-2024,Pune,B2B,1179.44
+1979,Thomas Shepard,Dresses,Bodycon,2,4375.7,0.91,787.63,13-06-2025,Bengaluru,B2B,250.46
+1980,Mary Hill,Accessories,Caps,1,1426.73,0,1426.73,08-10-2023,Pune,B2C,2451.99
+1990,Danny Ayers,Jeans,Boyfriend Jeans,1,1203.45,0,1203.45,27-04-2025,Delhi,B2C,1184.36
+1994,Manuel Carter,Jeans,Ripped Denim,1,1010.48,0,1010.48,26-07-2024,Hyderabad,B2C,2321.53
+1998,Thomas Howard,T-Shirts,Classic Tee,5,2567.59,0,12837.95,04-10-2023,Delhi,B2C,-702.7
+2000,Christopher Ortiz,Jackets,Leather Jacket,1,1966.21,0,1966.21,16-08-2024,Bengaluru,OTHERS,2035.1
+2010,Casey Mathews,T-Shirts,Graphic Tee,1,3630.24,0,3630.24,17-10-2024,Ahmedabad,OTHERS,-194.42
+2011,Heidi Ward,Shoes,Slip-ons,1,3989.68,0,3989.68,31-03-2025,Mumbai,B2C,999.35
+2016,Susan Davis,Shoes,Boots,2,1435.85,0,2871.7,09-05-2025,Hyderabad,B2B,317.58
+2019,Matthew Gibson,Jeans,Straight Cut,2,1797.91,0,3595.82,23-01-2025,Ahmedabad,B2C,2132.08
+2020,Laura Anderson,Jeans,Straight Cut,2,3954.73,0.3,5536.62,11-05-2025,Bengaluru,OTHERS,-78.22
+2024,Todd Edwards,Dresses,Casual Midi,4,4220.2,0,16880.8,14-12-2023,Delhi,B2C,2488.92
+2027,Vanessa Hale,Shoes,Slip-ons,5,2734.95,0.17,11350.04,04-01-2025,Mumbai,B2C,-657.03
+2030,Larry Kent,Dresses,Wrap Dress,1,1354.69,0,1354.69,11-12-2024,Hyderabad,B2C,-710.56
+2034,Amanda Jones,Accessories,Sunglasses,6,3080.12,0.26,13675.73,23-06-2025,Hyderabad,B2C,-678.89
+2037,Robert Fletcher,Shoes,Boots,1,1120.52,0,1120.52,11-07-2025,Hyderabad,B2B,-523.32
+2051,Eric Armstrong,Accessories,Sunglasses,2,1234.27,0,2468.54,28-02-2025,Pune,B2B,-911.71
+2052,John Carroll Jr.,Dresses,Maxi Dress,3,4971.74,0,14915.22,31-05-2024,Bengaluru,OTHERS,1386.13
+2059,Christopher Taylor,Accessories,Sunglasses,3,1193.03,0,3579.09,07-03-2025,Mumbai,B2B,-876.83
+2062,John Sanchez,Dresses,Casual Midi,4,2975.64,0,11902.56,29-07-2024,Hyderabad,OTHERS,-644.2
+2065,Andrea Jones,T-Shirts,Crop Top,4,3590.4,0,14361.6,22-08-2024,Bengaluru,OTHERS,-86.57
+2084,Frank Garcia MD,Jackets,Puffer Coat,6,4068.82,0,24412.92,03-04-2025,Ahmedabad,B2B,719.55
+2100,Amy Parker,Shoes,Slip-ons,1,1528.94,0.67,504.55,26-01-2025,Delhi,B2B,2294.33
+2105,Brandon Mccormick,Shoes,Slip-ons,1,3643.63,0.19,2951.34,07-04-2025,Mumbai,B2C,375.4
+2106,Brenda Graham,Dresses,Wrap Dress,4,4312.21,0,17248.84,22-04-2024,Delhi,B2C,552.97
+2118,Jacob Morris,Dresses,Wrap Dress,3,3952.46,0.82,2134.33,20-04-2025,Bengaluru,B2C,836.99
+2121,Kristen Gutierrez,Jeans,Boyfriend Jeans,2,1209.8,0,2419.6,12-03-2024,Bengaluru,OTHERS,959.68
+2143,Emily Chambers,Dresses,Wrap Dress,3,662.52,0.96,79.5,23-01-2025,Bengaluru,B2B,2079.07
+2144,Jacob Curry,Jackets,Bomber Jacket,1,906.82,0.92,72.55,04-01-2025,Ahmedabad,OTHERS,2348.39
+2176,Michelle Anderson,Jackets,Puffer Coat,6,4954.67,0,29728.02,14-07-2025,Hyderabad,OTHERS,2176.54
+2190,Courtney Wright,Jeans,Boyfriend Jeans,3,3887.5,0,11662.5,07-12-2024,Delhi,OTHERS,1787.25
+2214,Regina Rodriguez,Dresses,Casual Midi,1,4854.03,0,4854.03,12-10-2024,Ahmedabad,OTHERS,864.66
+2219,Lisa Ford,T-Shirts,Graphic Tee,4,2403.95,0,9615.8,23-10-2024,Mumbai,B2C,858.23
+2220,Robert Cline,Accessories,Belts,1,2170.71,0.58,911.7,02-06-2025,Bengaluru,OTHERS,1689.68
+2223,Alexander Costa Jr.,Jeans,Straight Cut,1,3445.9,0.81,654.72,28-12-2024,Mumbai,B2B,2374.18
+2233,Debra Wilcox,Dresses,Casual Midi,1,4604.85,0.14,3960.17,16-07-2025,Hyderabad,OTHERS,-627.17
+2238,Marcus Harris,T-Shirts,Classic Tee,1,4808.35,0,4808.35,28-03-2025,Ahmedabad,OTHERS,-282.61
+2242,Andrew Trevino,Shoes,Loafers,6,4450.17,0,26701.02,17-11-2024,Ahmedabad,OTHERS,-96.55
+2252,Lauren Cook,Shoes,Sneakers,6,2755.37,0,16532.22,16-05-2025,Delhi,B2C,613.59
+2255,Julian Nielsen,Accessories,Belts,2,4478.08,0,8956.16,05-05-2025,Pune,OTHERS,2090.38
+2259,Johnny Doyle,Shoes,Sneakers,1,2854.4,0,2854.4,04-08-2024,Bengaluru,B2C,542.9
+2270,Thomas Murillo,Dresses,Maxi Dress,1,2710.56,0,2710.56,06-05-2025,Delhi,OTHERS,2414.47
+2272,Martin Lynch,Jackets,Leather Jacket,4,2540.1,0.69,3149.72,26-05-2025,Mumbai,B2C,733.06
+2273,Laura Perez,Jeans,Ripped Denim,6,3064.21,0,18385.26,06-10-2024,Delhi,B2C,1569.81
+2279,Mark Henderson,Accessories,Belts,6,3294.21,0.89,2174.18,07-10-2024,Pune,B2C,1874.46
+2290,Theresa Stone,Dresses,Casual Midi,4,1405.39,0,5621.56,23-08-2024,Bengaluru,B2C,712.37
+2313,Shawn Martinez,Dresses,Casual Midi,2,2440.38,0,4880.76,08-03-2025,Bengaluru,B2B,-899.53
+2316,April Ward,Jeans,Ripped Denim,4,1529.48,0,6117.92,28-04-2024,Mumbai,B2C,1325.56
+2331,Raymond Floyd,Dresses,Casual Midi,2,2967.49,0,5934.98,04-05-2025,Pune,OTHERS,1890.42
+2335,Heather Walsh,Accessories,Caps,1,3508.21,0.62,1333.12,21-10-2024,Bengaluru,B2B,-309.15
+2338,Gregory Kennedy,Dresses,Wrap Dress,5,1378.76,0.19,5583.98,11-02-2025,Mumbai,B2B,2284.97
+2339,Robert Nelson,Jeans,Ripped Denim,1,1289.24,0,1289.24,30-10-2024,Mumbai,B2B,555.48
+2345,Susan Gonzalez,Jeans,Slim Fit Jeans,1,1095.03,0,1095.03,19-12-2024,Ahmedabad,B2C,1317.75
+2346,Christopher Hawkins,Jeans,Boyfriend Jeans,2,4922.99,0,9845.98,16-11-2024,Bengaluru,B2B,-712.37
+2350,Victoria Greene,Shoes,Slip-ons,1,3148.46,0,3148.46,23-09-2023,Bengaluru,B2B,-165.49
+2357,Catherine Young,Jeans,Ripped Denim,5,509.54,0,2547.7,23-12-2024,Delhi,B2C,2233.39
+2363,Kara Waller,Jeans,Boyfriend Jeans,1,3640.29,0.86,509.64,02-12-2024,Hyderabad,B2C,879.32
+2366,Aaron Molina,Shoes,Sneakers,6,429.37,0,2576.22,29-06-2024,Mumbai,B2B,-21.4
+2367,Javier Sloan,Shoes,Sneakers,3,500.41,0,1501.23,22-12-2024,Mumbai,OTHERS,1732.45
+2371,Charles Ray,Shoes,Loafers,3,4467.25,0,13401.75,06-06-2025,Hyderabad,OTHERS,2388.55
+2377,David Mitchell,T-Shirts,Classic Tee,4,4458.48,0,17833.92,09-10-2024,Bengaluru,B2B,631
+2379,Daniel Greer,Jackets,Denim Jacket,6,2188.74,0,13132.44,21-02-2024,Bengaluru,B2C,-885.72
+2384,Eric Hoffman,Jackets,Denim Jacket,3,1625.58,0.1,4389.07,16-07-2025,Pune,OTHERS,2368.55
+2392,Adrienne Anderson MD,Accessories,Sunglasses,3,4550.95,0,13652.85,20-03-2025,Ahmedabad,OTHERS,-951.64
+2393,David Snyder,Jackets,Bomber Jacket,5,753.85,0,3769.25,19-11-2024,Delhi,B2C,251.29
+2399,Amy Frederick,Jeans,Slim Fit Jeans,2,3643.5,0,7287,04-08-2024,Delhi,B2B,1452.6
+2401,Kayla Peters,Accessories,Belts,2,2159.68,0,4319.36,09-01-2025,Pune,OTHERS,1873.8
+2419,Rebekah Parker,Shoes,Slip-ons,2,1832.16,0,3664.32,17-09-2024,Mumbai,B2C,2843.62
+2421,Ashley Harrison,Accessories,Caps,4,4411.39,0,17645.56,12-08-2024,Hyderabad,OTHERS,-501.29
+2424,James Day,Shoes,Loafers,5,2476.15,0,12380.75,19-12-2023,Pune,B2C,387.88
+2427,Sean Tran,T-Shirts,Classic Tee,5,1510.89,0,7554.45,15-11-2024,Bengaluru,B2B,2959.19
+2429,Melissa Clark,Shoes,Loafers,1,4193.1,0,4193.1,26-09-2024,Hyderabad,B2C,436.03
+2443,Erin Cook,T-Shirts,Graphic Tee,1,4981.86,0,4981.86,27-09-2024,Pune,OTHERS,1410.16
+2447,Ronald Cohen,Dresses,Maxi Dress,6,1773.3,0,10639.8,11-11-2024,Hyderabad,OTHERS,2073.35
+2450,Elizabeth Rice,Accessories,Caps,2,3333.87,0,6667.74,05-05-2025,Ahmedabad,OTHERS,1673.63
+2460,Jon Hernandez,Accessories,Watches,2,3157.28,0.07,5872.54,25-09-2023,Hyderabad,OTHERS,971.15
+2461,David Alvarez,Jackets,Puffer Coat,1,4225.58,0,4225.58,28-01-2025,Hyderabad,B2B,-793.29
+2462,John Perry,Accessories,Belts,2,2123.22,0,4246.44,25-06-2025,Mumbai,OTHERS,2645.36
+2490,Cindy Zamora,T-Shirts,Oversized T-shirt,5,688.38,0,3441.9,28-11-2024,Bengaluru,OTHERS,-25.21
+2497,Darren Bailey,Accessories,Watches,1,3607.5,0,3607.5,13-01-2025,Ahmedabad,B2B,-341.21
+2498,Wanda Medina,Jackets,Puffer Coat,4,2043.67,0,8174.68,07-09-2023,Pune,B2C,-24.72
+2499,Heather Taylor,Dresses,Casual Midi,2,4638.76,0,9277.52,20-01-2025,Hyderabad,OTHERS,379.89
+2505,Jeff Dorsey,Shoes,Sneakers,1,1258.77,0.71,365.04,01-01-2025,Hyderabad,B2B,549.6
+2516,Ashley Martin,Jeans,Ripped Denim,1,1927.87,0,1927.87,17-06-2025,Delhi,B2B,-876.36
+2518,Selena Johnson,Shoes,Boots,6,773.28,0,4639.68,28-03-2025,Pune,OTHERS,608.25
+2522,Russell King,Dresses,Wrap Dress,4,2847.02,0.57,4896.87,02-09-2023,Pune,OTHERS,1592.04
+2531,Ricky Nelson,T-Shirts,Graphic Tee,2,816.33,0,1632.66,12-12-2024,Mumbai,B2C,868.11
+2543,Kevin Allison,T-Shirts,Classic Tee,4,3501.9,0,14007.6,22-10-2023,Hyderabad,OTHERS,1747.96
+2546,Traci Jennings,T-Shirts,Classic Tee,1,3574.54,0,3574.54,09-08-2024,Mumbai,B2C,-305.77
+2549,Colin Osborne,Dresses,Wrap Dress,6,2319.23,0,13915.38,17-01-2025,Ahmedabad,B2C,-854.91
+2550,Anthony Love,Jackets,Leather Jacket,1,1463.64,0,1463.64,30-04-2025,Hyderabad,B2C,1667.2
+2566,Raymond Mcdonald,T-Shirts,Crop Top,1,4482.08,0,4482.08,04-08-2024,Bengaluru,OTHERS,464.92
+1013,Tamara Hopkins,Shoes,Sneakers,6,2355.28,0,14131.68,17-01-2025,Ahmedabad,OTHERS,330.11
+2571,Julie Grant,Dresses,Wrap Dress,2,3061.98,0,6123.96,05-07-2025,Ahmedabad,OTHERS,2553.09
+2575,James Thompson,Shoes,Sneakers,2,2714.78,0.42,3149.14,08-05-2025,Ahmedabad,B2B,1220.49
+2577,Brian Young,Jeans,Straight Cut,1,609.06,0.17,505.52,01-11-2024,Ahmedabad,B2C,110.23
+2600,Kristie Williams,Shoes,Boots,5,4832.16,0,24160.8,20-09-2024,Pune,B2B,1707.66
+2604,Angela Wiggins,Shoes,Boots,1,2171.22,0,2171.22,29-05-2025,Bengaluru,B2B,2595.22
+2605,Diana Buchanan,Dresses,Casual Midi,1,1636.26,0.94,98.18,10-01-2025,Hyderabad,OTHERS,615.81
+2610,Amanda Wolf,T-Shirts,Oversized T-shirt,5,1606.99,0,8034.95,23-12-2023,Ahmedabad,B2C,1743.11
+2631,James Soto,Accessories,Watches,2,1753.02,0.23,2699.65,20-01-2025,Pune,OTHERS,-766.47
+2636,Amy Riley,Dresses,Wrap Dress,3,1006.98,0,3020.94,13-08-2023,Mumbai,B2B,1576.71
+2638,Sharon Reed,Jackets,Leather Jacket,6,2012.14,0,12072.84,17-12-2024,Delhi,B2B,3.53
+2640,Richard Lopez,Jackets,Leather Jacket,6,4720.23,0.69,8779.63,29-12-2023,Ahmedabad,B2B,2243.09
+2642,Andrew Sharp,Jackets,Bomber Jacket,1,1043.58,0,1043.58,08-07-2025,Hyderabad,B2B,1206.72
+2649,Melissa Flowers,Accessories,Sunglasses,3,3838.55,0.91,1036.41,31-07-2024,Pune,B2C,2380.44
+2662,Joshua Warren,T-Shirts,Crop Top,1,2718.51,0,2718.51,03-07-2025,Pune,B2C,903.59
+2663,Jeff Holland,Accessories,Sunglasses,2,2212.25,0.35,2875.93,06-11-2024,Mumbai,B2C,2992.12
+2681,Jennifer Vargas,Jackets,Denim Jacket,1,4770.92,0,4770.92,24-10-2023,Pune,B2B,433.04
+2689,Kendra James MD,Accessories,Caps,4,4777.51,0,19110.04,13-11-2024,Hyderabad,OTHERS,-204.04
+2701,Crystal Campbell,Accessories,Watches,1,2085.92,0,2085.92,12-01-2025,Bengaluru,B2C,1301.37
+2708,Benjamin Hicks,Accessories,Belts,4,4882.69,0,19530.76,30-12-2024,Mumbai,B2B,2658.6
+2718,Lawrence Turner,Jeans,Slim Fit Jeans,3,909.31,0,2727.93,05-04-2025,Pune,OTHERS,1389.16
+2731,David Hawkins,Jackets,Puffer Coat,1,1635.12,0,1635.12,16-07-2025,Mumbai,B2B,-526.88
+2739,Brianna Little,Shoes,Boots,4,4316.85,0,17267.4,08-12-2023,Ahmedabad,OTHERS,2259.3
+2745,Robert Gray,Jeans,Slim Fit Jeans,1,869.82,0,869.82,24-07-2024,Bengaluru,B2C,737.77
+2747,Rebekah Wolf,T-Shirts,Graphic Tee,1,1369.29,0,1369.29,19-05-2025,Mumbai,B2C,325.08
+2748,Laura Hernandez,Accessories,Watches,4,3977.88,0,15911.52,13-01-2025,Ahmedabad,B2C,2431.13
+2757,Stephanie Jensen,Accessories,Caps,3,4923.95,0,14771.85,17-05-2025,Pune,B2B,794.65
+2788,Gerald Snow,Accessories,Sunglasses,1,3267.28,0,3267.28,26-03-2025,Bengaluru,B2B,81.99
+2790,Angela Miller,Jeans,Boyfriend Jeans,3,2675.27,0.41,4735.23,09-11-2024,Delhi,B2B,1960.51
+2793,Scott Kent,Accessories,Belts,2,4836.47,0,9672.94,19-03-2025,Ahmedabad,B2C,-608.3
+2797,Kaylee Wilkins,Accessories,Belts,1,1257.81,0,1257.81,19-05-2025,Ahmedabad,B2C,2957.6
+2803,Benjamin Boyd,T-Shirts,Crop Top,5,4418.75,0,22093.75,13-08-2023,Bengaluru,OTHERS,693.65
+2804,Julie Jones,Accessories,Sunglasses,6,4784,0,28704,16-03-2025,Mumbai,B2B,2969.42
+2820,Stephanie Johnson,Accessories,Caps,1,2454.71,0.1,2209.24,03-01-2024,Mumbai,B2B,2850.37
+2822,Matthew Bates,T-Shirts,Classic Tee,2,3864.37,0,7728.74,09-03-2025,Bengaluru,OTHERS,957.65
+2834,Patricia Mcbride,Jackets,Leather Jacket,2,3522.98,0,7045.96,01-11-2024,Delhi,B2C,2242.67
+2836,Timothy Brown,Dresses,Bodycon,4,4609.95,0,18439.8,05-06-2024,Bengaluru,B2B,-154.75
+2846,Cynthia Johnson,Shoes,Slip-ons,2,2525.04,0.3,3535.06,25-09-2024,Hyderabad,OTHERS,1003.34
+2858,Julie Anthony,Jeans,Boyfriend Jeans,1,3270.29,0,3270.29,07-02-2025,Pune,B2C,-539.25
+2864,Felicia Saunders,Jackets,Leather Jacket,5,2535.29,0,12676.45,27-07-2024,Bengaluru,OTHERS,-456.39
+2868,Mallory Lee DVM,Accessories,Sunglasses,4,1392.21,0,5568.84,15-11-2024,Bengaluru,B2B,758.3
+2870,Erin Martin,Jeans,Ripped Denim,2,839.34,0,1678.68,15-10-2024,Pune,B2C,367.87
+2873,Jennifer Leblanc,Shoes,Loafers,5,1354.14,0,6770.7,24-03-2025,Ahmedabad,B2B,2535.62
+2876,Wesley Jackson,Jeans,Straight Cut,6,3824.82,0.82,4130.81,02-08-2024,Bengaluru,B2C,688.53
+2882,Laura Robertson,Accessories,Caps,3,583.53,0,1750.59,13-02-2025,Mumbai,OTHERS,2334.42
+2885,Kevin Skinner,T-Shirts,Classic Tee,2,2666.48,0,5332.96,29-04-2025,Pune,B2B,-17.89
+2890,Karen Houston,Dresses,Wrap Dress,1,2357.36,0,2357.36,01-05-2024,Pune,OTHERS,468.3
+2897,Lisa James,Jackets,Denim Jacket,1,1194.44,0,1194.44,16-06-2025,Delhi,B2B,1048.51
+2899,Daniel Reyes,Accessories,Sunglasses,2,3086.59,0,6173.18,26-01-2025,Delhi,B2C,-745.27
+2901,Kaitlin Baldwin,Shoes,Sneakers,2,1817.71,0,3635.42,28-04-2025,Mumbai,B2C,391.06
+2902,Andrew Brown,Jeans,Boyfriend Jeans,5,3153.37,0,15766.85,28-09-2024,Bengaluru,OTHERS,-594.19
+2904,David Walker,T-Shirts,Crop Top,5,1202.73,0,6013.65,03-11-2024,Hyderabad,B2C,658.6
+2919,Timothy Peterson,Jeans,Slim Fit Jeans,2,535.62,0,1071.24,27-07-2024,Bengaluru,B2C,-637.47
+2926,Zachary Robinson,Dresses,Wrap Dress,4,3263.06,0.16,10963.88,15-11-2024,Mumbai,OTHERS,2428.73
+2944,John Blankenship,Dresses,Casual Midi,1,1313.35,0.2,1050.68,06-03-2025,Hyderabad,B2C,-384.05
+2948,Daniel Haney,Jeans,Slim Fit Jeans,5,2494.15,0,12470.75,07-02-2025,Delhi,B2B,-901.7
+2952,Jennifer Simpson,Shoes,Boots,2,470.68,0.06,884.88,19-11-2024,Ahmedabad,B2B,2812.7
+2971,Danielle Archer,Dresses,Bodycon,6,1507.6,0,9045.6,11-02-2025,Delhi,B2C,2280.06
+2974,Amy Miller,Accessories,Watches,6,1765.76,0.36,6780.52,21-05-2025,Ahmedabad,B2B,2947
+2982,Bailey Keller,T-Shirts,Oversized T-shirt,1,2497.52,0,2497.52,23-11-2023,Ahmedabad,OTHERS,-523.43
+2984,Alexander Gonzalez,Shoes,Loafers,4,2062.9,0,8251.6,02-08-2024,Mumbai,B2C,2471.06
+2989,Paige Mosley,Shoes,Boots,1,4084.97,0.83,694.44,29-01-2024,Mumbai,B2B,2395.43
+3001,Amanda Mclaughlin,Jackets,Denim Jacket,1,1171.57,0,1171.57,05-11-2024,Pune,OTHERS,2541.21
+3004,Laurie Martinez,T-Shirts,Crop Top,3,1759.66,0,5278.98,04-04-2025,Mumbai,OTHERS,1133.07
+3007,Misty Higgins,Shoes,Loafers,2,3922.01,0,7844.02,10-03-2025,Bengaluru,B2B,2186.58
+3022,Jennifer Hancock,Accessories,Belts,3,1695.61,0,5086.83,08-08-2024,Delhi,B2C,297.83
+3052,Nathaniel Martin Jr.,Accessories,Belts,1,1290.42,0,1290.42,21-04-2024,Ahmedabad,B2B,-196.63
+3059,Douglas Cummings,T-Shirts,Crop Top,2,4949.17,0,9898.34,08-05-2025,Bengaluru,B2B,1267.49
+3061,Melissa Mcdonald,T-Shirts,Crop Top,1,1873.39,0.74,487.08,20-12-2024,Hyderabad,B2B,1596.53
+3065,Kyle Salinas,T-Shirts,Crop Top,1,873.64,0.17,725.12,20-03-2025,Pune,OTHERS,1107.85
+3089,Frank Griffin,Accessories,Belts,2,3153.72,0,6307.44,04-02-2025,Hyderabad,B2B,2686.96
+3090,Kenneth Griffith,Dresses,Wrap Dress,2,3033.2,0,6066.4,02-09-2024,Pune,B2B,490.69
+3093,Randy Burke,Shoes,Boots,2,1551.41,0.54,1427.3,20-12-2024,Delhi,B2C,763.37
+3096,Charles Francis,Shoes,Boots,2,2312.09,0,4624.18,13-06-2025,Bengaluru,OTHERS,508.96
+3113,Veronica Goodwin,Shoes,Loafers,4,3256.86,0.77,2996.31,13-09-2024,Bengaluru,B2B,-109.08
+3125,Stephanie Cook,Dresses,Casual Midi,5,4264.79,0,21323.95,03-10-2024,Ahmedabad,B2C,2388.91
+3133,Catherine Spencer,Jackets,Denim Jacket,1,974.54,0.44,545.74,05-10-2024,Hyderabad,B2B,2655.22
+3142,Dale Davis,Dresses,Bodycon,1,4887.36,0,4887.36,29-10-2024,Hyderabad,B2B,-243.32
+3152,Brianna Patel,T-Shirts,Graphic Tee,2,2116.65,0.21,3344.31,28-09-2024,Mumbai,OTHERS,385.42
+1047,Wendy Sandoval,T-Shirts,Oversized T-shirt,1,3154.48,0,3154.48,28-07-2024,Ahmedabad,B2C,-243.92
+3157,Matthew Bryant,Accessories,Caps,6,1768.88,0,10613.28,19-01-2024,Pune,B2B,-750.14
+3160,Denise Ashley,Jeans,Ripped Denim,6,4976.81,0,29860.86,17-05-2025,Ahmedabad,B2C,845.06
+3168,Christine Young,Jeans,Ripped Denim,1,1845.75,0,1845.75,06-06-2025,Bengaluru,B2B,268.45
+3172,Robert Rogers,Shoes,Sneakers,3,4433.35,0,13300.05,28-11-2024,Pune,OTHERS,329.75
+3175,Brittany Brown,Jeans,Straight Cut,3,2937.09,0,8811.27,27-03-2024,Pune,B2C,2471.63
+3179,Christopher Martin,Jackets,Puffer Coat,1,2057.88,0,2057.88,23-10-2024,Ahmedabad,B2C,932.33
+3180,Elizabeth Deleon,Shoes,Boots,5,1981.32,0,9906.6,15-08-2024,Bengaluru,OTHERS,1113.19
+3187,Karen Clayton,Dresses,Maxi Dress,6,3998.97,0,23993.82,30-01-2024,Mumbai,B2C,716.49
+3192,Brittany Sweeney,Jeans,Straight Cut,2,3568.45,0.37,4496.25,29-07-2023,Delhi,B2C,1683.74
+3208,Melissa Davila,Accessories,Watches,4,4280.7,0,17122.8,19-09-2024,Pune,B2B,68.36
+3224,Elizabeth Smith,Jeans,Slim Fit Jeans,6,878.95,0.01,5220.96,22-04-2025,Mumbai,OTHERS,2099.52
+3239,Mariah Kidd,Jeans,Straight Cut,1,4585.71,0,4585.71,18-05-2025,Ahmedabad,B2B,1277.56
+3253,Anita Ramirez,Jackets,Bomber Jacket,5,4429.95,0.35,14397.34,11-03-2025,Hyderabad,OTHERS,-746.94
+3255,George Gonzales,Accessories,Watches,6,3904.86,0,23429.16,04-12-2024,Mumbai,B2C,1504.25
+1024,William Johnson,Accessories,Watches,2,940.64,0.67,620.82,10-01-2025,Mumbai,B2C,1552.9
+3263,Tammy Hatfield,Shoes,Sneakers,6,3121.49,0,18728.94,21-01-2025,Bengaluru,B2B,1156.27
+3265,Sandra Patrick,Jackets,Leather Jacket,1,1882.93,0,1882.93,27-06-2025,Bengaluru,B2B,520.85
+3267,Cathy Zamora,Dresses,Maxi Dress,1,3965.8,0.48,2062.22,22-10-2024,Bengaluru,B2B,1222.85
+3272,Christopher Davis,Shoes,Boots,3,4236.45,0,12709.35,27-08-2024,Mumbai,B2C,-849.83
+3274,Nathan Maynard,Dresses,Casual Midi,2,4409.22,0,8818.44,30-08-2024,Delhi,B2C,2886.62
+3282,Nicholas Cox,Jeans,Ripped Denim,2,4405.96,0.28,6344.58,24-08-2024,Bengaluru,B2B,503.27
+3294,Gregory Mitchell,T-Shirts,Oversized T-shirt,4,1316.9,0.11,4688.16,15-09-2024,Delhi,B2C,2743.65
+3298,Christopher Gordon,Accessories,Belts,1,2124.13,0.85,318.62,03-08-2024,Hyderabad,OTHERS,1126.81
+3299,Kristen Alexander,Jackets,Leather Jacket,1,4090.34,0.99,40.9,01-06-2025,Mumbai,B2B,1676.64
+3301,Holly Lopez,T-Shirts,Graphic Tee,5,2590.44,0,12952.2,10-08-2024,Hyderabad,OTHERS,-613.96
+3309,Katrina Pugh,Dresses,Casual Midi,2,3944.46,0,7888.92,02-10-2023,Ahmedabad,B2C,1392.37
+3311,Amanda Dixon,Dresses,Maxi Dress,1,3108.69,0,3108.69,06-04-2024,Delhi,OTHERS,2986.53
+3312,Sarah Bradley DDS,T-Shirts,Classic Tee,2,4878.81,0,9757.62,02-09-2024,Bengaluru,OTHERS,327.38
+3321,Hector Morris,Jackets,Bomber Jacket,5,1804.56,0,9022.8,24-11-2023,Hyderabad,OTHERS,2534.37
+3326,Shawn Campbell,Shoes,Boots,2,3047.68,0,6095.36,22-08-2024,Bengaluru,B2C,827.95
+3328,Scott Hernandez,Jeans,Boyfriend Jeans,1,4390.32,0,4390.32,17-03-2025,Bengaluru,OTHERS,2785.75
+3330,Adrian Cross,Shoes,Loafers,6,2217.95,0,13307.7,18-06-2025,Hyderabad,OTHERS,146.52
+1018,Thomas Cole,Dresses,Maxi Dress,1,2847.86,0.7,854.36,09-03-2024,Delhi,B2C,2190.67
+3340,Christopher Stone,Shoes,Sneakers,6,3924.28,0.15,20013.83,28-08-2024,Bengaluru,OTHERS,-831.93
+3346,Calvin Wright,Shoes,Sneakers,2,1266.23,0.81,481.17,25-12-2024,Ahmedabad,B2B,416.5
+3356,Jill Singh,Shoes,Slip-ons,1,966.41,0,966.41,26-07-2024,Bengaluru,B2C,924.69
+3366,Mary Smith,Jackets,Leather Jacket,5,636.53,0,3182.65,01-04-2025,Mumbai,B2B,-513.44
+3380,Crystal Beasley,Dresses,Bodycon,2,4166.34,0,8332.68,14-10-2024,Hyderabad,B2B,317.31
+3384,Justin Melton,Dresses,Wrap Dress,1,2282.76,0.58,958.76,04-11-2024,Bengaluru,OTHERS,1133.68
+3396,Connor Meza,Jackets,Leather Jacket,2,3760.09,0,7520.18,12-12-2024,Hyderabad,OTHERS,-871.94
+3399,Mary Johnson,Jeans,Ripped Denim,5,3111.73,0,15558.65,11-07-2024,Bengaluru,B2C,800.89
+3424,Ryan Barker,Accessories,Watches,5,4754.22,0.82,4278.8,17-05-2025,Hyderabad,B2B,2415.19
+3425,Logan Phillips,Jackets,Denim Jacket,2,2942.33,0.16,4943.11,19-02-2024,Pune,OTHERS,977.57
+3434,Sean Hensley,Shoes,Loafers,1,636.92,0.51,312.09,08-03-2025,Pune,B2B,2399.61
+3439,Jeremiah Reese,Shoes,Slip-ons,2,400.21,0,800.42,23-06-2025,Bengaluru,B2C,914.27
+3445,Richard Gutierrez,Accessories,Caps,4,973.52,0,3894.08,10-08-2024,Hyderabad,OTHERS,2406.66
+3446,Christopher Phillips,T-Shirts,Crop Top,3,4758.24,0.49,7280.11,17-03-2025,Mumbai,OTHERS,2863.66
+3447,Charles Kelly,Jackets,Puffer Coat,4,4762.62,0,19050.48,02-07-2025,Hyderabad,B2B,1483.83
+3449,Carrie Mclaughlin,Dresses,Casual Midi,4,803.79,0,3215.16,16-07-2025,Pune,B2C,2948.6
+3451,Roger Blake,T-Shirts,Graphic Tee,2,2339.36,0.35,3041.17,19-06-2025,Bengaluru,B2B,-5.05
+3454,Amanda Rich,Accessories,Watches,6,1987.62,0,11925.72,31-08-2024,Hyderabad,B2B,1184.77
+3487,Kathryn Swanson,T-Shirts,Crop Top,5,1683.74,0.58,3535.85,13-01-2025,Bengaluru,B2C,419.44
+3493,Keith Manning,Dresses,Casual Midi,5,2935.56,0,14677.8,21-01-2025,Delhi,OTHERS,-410.86
+3498,Angela Adkins,Jeans,Straight Cut,5,3844.19,0,19220.95,24-07-2024,Hyderabad,OTHERS,2967
